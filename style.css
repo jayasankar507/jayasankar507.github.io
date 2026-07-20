@@ -452,6 +452,10 @@ noscript {
     color: var(--color-white)
 }
 
+#work > div:nth-of-type(2) {
+  flex-basis: 100%;
+}
+
 .blob,
 .eye,
 .pupil {

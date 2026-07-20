@@ -11,6 +11,7 @@
 
 ## Projects Featured 🚀
 - Animal Species Detection – YOLOv8 (Python, Django, OpenCV)
+- NatuKodi- Country Chicken Farm E-Commerce( MongoDB, Express.js, React.js, Node.js, Razorpay)  
 - Chatty – Real-Time Messaging App (MERN + Socket.io)
 - BitLinks – URL Shortener (Next.js, Tailwind CSS)
 - PassOP – Password Manager (MERN)
